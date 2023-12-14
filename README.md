@@ -2,10 +2,7 @@
 <table>
   <tr>
     <td>
-      <img width="500" alt="Image 1" src="">
-    </td>
-    <td>
-      <img width="500" alt="Image 2" src="">
+      <img width="500" alt="Image 1" src="https://github.com/HensalDeon/woxro_MT/assets/120702682/d1b8e970-1237-4d7f-b610-0df8bbb31d2a">
     </td>
   </tr>
 </table>
